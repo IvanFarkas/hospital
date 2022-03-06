@@ -1,0 +1,22 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "Integration package",
+  "keywords": [
+    "lerna",
+    "test"
+  ],
+  "author": "IvanFarkas <Ivan.Farkas@3DHDSoft.com>",
+  "homepage": "https://blog.logrocket.com/setting-up-monorepo-with-lerna-typescript",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@hospital-sdk/doctor": "^0.0.1",
+    "@hospital-sdk/patient": "^0.0.1",
+    "@hospital-sdk/scheduler": "^0.0.1"
+  }
+}
