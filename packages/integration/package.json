@@ -15,9 +15,9 @@
     "start": "ts-node src/index.ts"
   },
   "dependencies": {
-    "@3dhdsoft_hospital/doctor": "^0.0.6",
-    "@3dhdsoft_hospital/patient": "^0.0.6",
-    "@3dhdsoft_hospital/scheduler": "^0.0.6"
+    "@3dhd_org/doctor": "^0.0.6",
+    "@3dhd_org/patient": "^0.0.6",
+    "@3dhd_org/scheduler": "^0.0.6"
   },
-  "gitHead": "72212c576518d2196a4d40879bb08a40fa532751"
+  "gitHead": "62a8e19188b3fc6a80f1fa20e15facf2b17992bf"
 }

@@ -24,8 +24,10 @@ npm install typescript @types/node — save-dev
 ## Run
 
 ```shell
+lerna bootstrap
 cd packages/integration
 npm start
+cd ../../
 ```
 
 ## npm

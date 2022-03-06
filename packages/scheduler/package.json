@@ -1,5 +1,5 @@
 {
-  "name": "@3dhdsoft_hospital/scheduler",
+  "name": "@3dhd_org/scheduler",
   "version": "0.0.6",
   "description": "Scheduler package",
   "keywords": [
@@ -32,5 +32,5 @@
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "72212c576518d2196a4d40879bb08a40fa532751"
+  "gitHead": "62a8e19188b3fc6a80f1fa20e15facf2b17992bf"
 }
