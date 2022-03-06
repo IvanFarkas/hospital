@@ -1,6 +1,6 @@
 {
   "name": "@hospital/doctor",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Doctor package",
   "keywords": [
     "lerna",
