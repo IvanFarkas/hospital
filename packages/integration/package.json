@@ -9,7 +9,7 @@
   "author": "IvanFarkas <Ivan.Farkas@3DHDSoft.com>",
   "homepage": "https://blog.logrocket.com/setting-up-monorepo-with-lerna-typescript",
   "main": "index.js",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node src/index.ts"
@@ -18,5 +18,6 @@
     "@hospital-sdk/doctor": "^0.0.1",
     "@hospital-sdk/patient": "^0.0.1",
     "@hospital-sdk/scheduler": "^0.0.1"
-  }
+  },
+  "gitHead": "f026670e33d55dbd1cad9cbf8b571b8e30dfb06a"
 }

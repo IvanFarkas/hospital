@@ -8,7 +8,7 @@
   ],
   "author": "IvanFarkas <Ivan.Farkas@3DHDSoft.com>",
   "homepage": "https://blog.logrocket.com/setting-up-monorepo-with-lerna-typescript",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/doctor.js",
   "typings": "lib/doctor.d.ts",
   "directories": {
@@ -28,5 +28,6 @@
   "scripts": {
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "f026670e33d55dbd1cad9cbf8b571b8e30dfb06a"
 }
