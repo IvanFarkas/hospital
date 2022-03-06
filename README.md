@@ -31,6 +31,5 @@ npm start
 ## npm
 
 ```shell
-npm login --scope=edhdsoft_npm
-# 3dhdsoft_org
+npm login --scope=developer_npm
 ```
