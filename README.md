@@ -1,7 +1,7 @@
 # monorepo with Lerna for a TypeScript project
 
 [Article](https://blog.logrocket.com/setting-up-monorepo-with-lerna-typescript)
-[GitHub](https://github.com/vladotesanovic/hospital)
+[GitHub](https://github.com/vladotesanovic/hospital-sdk)
 [lerna](https://github.com/lerna)
 
 ## Requirements
