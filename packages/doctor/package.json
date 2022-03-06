@@ -1,6 +1,6 @@
 {
   "name": "@hospital-sdk/doctor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Doctor package",
   "keywords": [
     "lerna",
