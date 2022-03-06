@@ -23,7 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IvanFarkas/hospital.git"
+    "url": "git+https://github.com/IvanFarkas/hospital.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IvanFarkas/hospital/issues"
   },
   "scripts": {
     "tsc": "tsc",
