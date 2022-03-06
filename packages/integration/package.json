@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Integration package",
   "keywords": [
     "lerna",
@@ -15,9 +15,9 @@
     "start": "ts-node src/index.ts"
   },
   "dependencies": {
-    "@hospital/doctor": "^0.0.3",
-    "@hospital/patient": "^0.0.3",
-    "@hospital/scheduler": "^0.0.3"
+    "@hospital/doctor": "^0.0.4",
+    "@hospital/patient": "^0.0.4",
+    "@hospital/scheduler": "^0.0.4"
   },
   "gitHead": "c70fbca0f5a8f76fb0b5366779be5a3923abca2c"
 }
