@@ -1,5 +1,5 @@
 {
-  "name": "@hospital-sdk/doctor",
+  "name": "@hospital/doctor",
   "version": "0.0.2",
   "description": "Doctor package",
   "keywords": [
@@ -29,5 +29,5 @@
     "tsc": "tsc",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "f026670e33d55dbd1cad9cbf8b571b8e30dfb06a"
+  "gitHead": "1ab9ba7efd7824b58c770a7b2b0ca2d331653f00"
 }

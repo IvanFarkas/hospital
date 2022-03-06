@@ -1,6 +1,6 @@
-import { Doctor } from '@hospital-sdk/doctor';
-import { Patient } from '@hospital-sdk/patient';
-import { Scheduler } from '@hospital-sdk/scheduler';
+import { Doctor } from '@hospital/doctor';
+import { Patient } from '@hospital/patient';
+import { Scheduler } from '@hospital/scheduler';
 
 console.log(new Doctor());
 console.log(new Scheduler());
