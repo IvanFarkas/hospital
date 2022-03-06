@@ -24,13 +24,13 @@ npm install typescript @types/node — save-dev
 ## Run
 
 ```shell
-yarn install
-yarn build
-yarn start
+cd packages/integration
+npm start
 ```
 
 ## npm
 
 ```shell
-npm login --scope=3dhdsoft_org
+npm login --scope=edhdsoft_npm
+# 3dhdsoft_org
 ```
