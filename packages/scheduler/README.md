@@ -7,5 +7,5 @@
 ```
 const scheduler = require('scheduler');
 
-// TODO: DEMONSTRATE API
+// TODO: Demonstrate API
 ```

@@ -7,5 +7,5 @@
 ```
 const patient = require('patient');
 
-// TODO: DEMONSTRATE API
+// TODO: Demonstrate API
 ```

@@ -7,5 +7,5 @@
 ```
 const doctor = require('doctor');
 
-// TODO: DEMONSTRATE API
+// TODO: Demonstrate API
 ```
