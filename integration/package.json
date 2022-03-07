@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "Integration package",
   "keywords": [
     "lerna",
@@ -11,13 +11,14 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "ts-node": "^7.0.1",
     "@3dhd_org/doctor": "^0.0.7",
     "@3dhd_org/patient": "^0.0.7",
     "@3dhd_org/scheduler": "^0.0.7"
   },
-  "gitHead": "62a8e19188b3fc6a80f1fa20e15facf2b17992bf"
+  "gitHead": "f660690abd982c9aa32932aba9e84f99e9e62056"
 }
