@@ -42,3 +42,7 @@ npm notice Please use the one-time password (OTP) from your authenticator applic
 Enter one-time password: 000000
 Logged in as 3dhd_dev to scope @3dhd_org on https://registry.npmjs.org/.
 ```
+
+```shell
+npm run publish
+```
