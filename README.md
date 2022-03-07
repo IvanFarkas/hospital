@@ -33,5 +33,12 @@ cd ../../
 ## npm
 
 ```shell
-npm login --scope=developer_npm
+npm login --scope=3dhd_org
+npm notice Log in on https://registry.npmjs.org/
+Username: 3dhd_dev
+Password: 
+Email: (this IS public) 3dhd_dev@3DHDSoft.com
+npm notice Please use the one-time password (OTP) from your authenticator application
+Enter one-time password: 000000
+Logged in as 3dhd_dev to scope @3dhd_org on https://registry.npmjs.org/.
 ```
