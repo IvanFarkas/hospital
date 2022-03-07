@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Integration package",
   "keywords": [
     "lerna",
@@ -15,9 +15,9 @@
     "start": "ts-node src/index.ts"
   },
   "dependencies": {
-    "@3dhd_org/doctor": "^0.0.6",
-    "@3dhd_org/patient": "^0.0.6",
-    "@3dhd_org/scheduler": "^0.0.6"
+    "@3dhd_org/doctor": "^0.0.7",
+    "@3dhd_org/patient": "^0.0.7",
+    "@3dhd_org/scheduler": "^0.0.7"
   },
   "gitHead": "62a8e19188b3fc6a80f1fa20e15facf2b17992bf"
 }
